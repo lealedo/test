@@ -1,6 +1,10 @@
 hihihi
 second?
 third
-long text, longlonglongwhahfhwahfhwa
+<<<<<<< HEAD
+long text, going to test merge confli
+=======
+long text, going to test merge confli
+>>>>>>> origin/main
 test?
 hihihihi
