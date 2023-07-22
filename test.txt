@@ -1,10 +1,1 @@
-hihihi
-second?
-third
-<<<<<<< HEAD
-long text, going to test merge confli
-=======
-long text, going to test merge confli
->>>>>>> origin/main
-test?
-hihihihi
+
